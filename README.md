@@ -2,9 +2,9 @@
 
 Live example hosted on server :
 
-http://leedavidsoncontentmanagementsystem1.com/public_html_1/index.php
+https://vs1toronto.com/public_html_1/home
 
 
 User journey showing functionality :
 
-https://www.behance.net/gallery/51966089/PHP-Laravel-5-Blog-System
+https://www.behance.net/gallery/51966089/Php-Laravel-5-Blog-System
